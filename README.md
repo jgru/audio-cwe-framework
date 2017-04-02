@@ -1,5 +1,9 @@
 # Information about the audio-cwe-framework
 
+Implementation of a histogram-based watermarking method, which is commutative to a permutation cipher in the time domain. Furtheron a minimum knowledge verification in form of a probabillistic protocol, which is based on the graph isomorphism problem, is implemented. A detailed description can be found in the following journal article of Prof. Dr. R. Schmitz and myself: 
+https://www.hindawi.com/journals/am/2017/5879257/abs/
+
+
 The Python code follows the PEP8 styleguide and the recommendations of this site: https://gist.github.com/sloria/7001839
 
 Structure
